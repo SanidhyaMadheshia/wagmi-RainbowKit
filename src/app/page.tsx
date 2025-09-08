@@ -41,8 +41,8 @@ export default function Home() {
         <ConnectBtn />
       </div>
       {address}
-      {/* <MintTokenDetails/> */}
-      <CounterComponent />
+      <MintTokenDetails/>
+      {/* <CounterComponent /> */}
     </main>
   );
 }
